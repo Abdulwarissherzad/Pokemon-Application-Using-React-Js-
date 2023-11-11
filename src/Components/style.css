@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;1,300;1,400&family=Roboto:ital,wght@1,100&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+/* I add thsi part for the header, search button and input box*/
+.h1 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  /*Location is as follow: from tope, left, button*/
+  margin: 40px 0 60px 200px;
+}
+.search-iput {
+  position: absolute;
+  top: 140px;
+  left: 170px;
+  width: 60%;
+  max-width: 300px;
+  padding: 10px 20px;
+  /*box-shadow: 0 0 6px rgba(243, 242, 242, 0);*/
+  border-radius: 5px;
+  font-size: 18px;
+  background-color: #9edef9;
+  display: flex;
+  box-shadow: inset 0px 0px 3px rgba(0, 0, 0, 0.8);
+}
+.search-button {
+  position: absolute;
+  top: 143px;
+  left: 520px;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #9edef9;
+  display: flex;
+  box-shadow: inset 0px 0px 3px rgba(0, 0, 0, 0.8);
+}
+
+body {
+  background-color: #fceec8;
+}
+.container {
+  width: 90%;
+  margin: auto;
+  padding-top: 100px;
+  display: flex;
+}
+.left-content,
+.right-content {
+  flex-basis: 50%;
+}
+.left-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 0.5fr));
+  grid-gap: 2rem;
+}
+.card {
+  width: 300px;
+  background-color: #9edef9;
+  border-radius: 1rem;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.right-content {
+  width: 50%;
+  text-align: center;
+  color: black;
+  position: fixed;
+  top: 100px;
+  right: 10px;
+}
+.right-content img {
+  margin: 1.5rem;
+  height: 160px;
+}
+.right-content h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.abilities {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+.abilities .group {
+  background-color: #b74555;
+  color: white;
+  padding: 0.5rem;
+  font-size: 12px;
+  border-radius: 8px;
+  margin-left: 1rem;
+}
+.base-stat {
+  margin-top: 2rem;
+}
+.btn-group {
+  display: flex;
+}
+.btn-group button {
+  outline: none;
+  border: none;
+  width: 150px;
+  padding: 0.3rem 0;
+  margin: 1rem;
+  font-size: 17px;
+  font-weight: bold;
+  color: white;
+  background-color: #b74555;
+  border-radius: 8px;
+}
