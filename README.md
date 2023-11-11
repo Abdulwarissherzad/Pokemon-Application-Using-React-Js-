@@ -48,14 +48,14 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 ### Pokemon Sample Images, 
-## Sample image taken from the developed app.
-## First Screenshot of the application
+#### Sample image taken from the developed app.
+### First Screenshot of the application
 ![alt text](https://github.com/Abdulwarissherzad/Pokemon-Application-Using-React-Js-/blob/main/Sample%20Image%201.jpg)
 
-## Second Screenshot of the application
+### Second Screenshot of the application
 ![alt text](https://github.com/Abdulwarissherzad/Pokemon-Application-Using-React-Js-/blob/main/Sample%20Image%202.jpg)
 
-## Third Screenshot of the application
+### Third Screenshot of the application
 ![alt text](https://github.com/Abdulwarissherzad/Pokemon-Application-Using-React-Js-/blob/main/Sample%20Image%203.jpg)
 
 
