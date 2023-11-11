@@ -1,6 +1,6 @@
 # Pokemon Application Using React Js
 This a React application. In the application, Pokemon are loaded and displayed, which are accessible via a public API. The application is **divided into two parts**. The first part is about the **fetching and the general presentation of the data**. The second part is about the **manipulation of the displayed data using a filter**.
-<p>Genral Presentation of the data, and manipulation of the displayed data using a filter <span style="color:blue">some <em>blue</em> text</span>.</p>
+<p>Genral Presentation of the data, and manipulation of the displayed data using a filter <span style="color:blue">.<em>blue</em> </span>.</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -46,6 +46,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+### Pokemon Sample Images, 
+## Sample image taken from the developed app.
 
 ### Code Splitting
 
