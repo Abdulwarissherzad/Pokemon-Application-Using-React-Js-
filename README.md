@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Pokemon Application Using React Js
+This a React application. In the application, Pokemon are loaded and displayed, which are accessible via a public API. The application is **divided into two parts**. The first part is about the **fetching and the general presentation of the data**. The second part is about the **manipulation of the displayed data using a filter**.
+<p>Genral Presentation of the data, and manipulation of the displayed data using a filter <span style="color:blue">some <em>blue</em> text</span>.</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
